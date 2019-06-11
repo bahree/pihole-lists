@@ -154,3 +154,5 @@ https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi
 https://cdn.staticaly.com/gh/ookangzheng/dbl-oisd-nl/master/dblzero.txt?env=dev
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/bahree/pihole-lists/master/minimalhosts
+https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
