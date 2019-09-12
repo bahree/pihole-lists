@@ -38,8 +38,6 @@ app.adjust.com
 app-api.ted.com
 app.launchdarkly.com
 appleid.apple.com
-app.plex.tv
-app.plex.tv 
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 apps.skype.com
