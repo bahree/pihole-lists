@@ -653,3 +653,4 @@ mobile-ap.spotify.com
 upgrade.scdn.com
 market.spotify.com
 zeustracker.abuse.ch
+addons.mozilla.org
