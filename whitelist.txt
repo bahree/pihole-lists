@@ -654,3 +654,4 @@ upgrade.scdn.com
 market.spotify.com
 zeustracker.abuse.ch
 addons.mozilla.org
+letsencrypt.org
