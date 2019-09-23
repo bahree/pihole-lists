@@ -660,3 +660,4 @@ fp.msedge.net
 api.pinterest.com
 insiderservice.microsoft.com
 officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
