@@ -655,3 +655,8 @@ market.spotify.com
 zeustracker.abuse.ch
 addons.mozilla.org
 letsencrypt.org
+techcrunch.com
+fp.msedge.net
+api.pinterest.com
+insiderservice.microsoft.com
+officecdn.microsoft.com
