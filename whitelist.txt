@@ -663,3 +663,4 @@ officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 reddit-uploaded-media.s3-accelerate.amazonaws.com
 gql.reddit.com
+ton.twimg.com
