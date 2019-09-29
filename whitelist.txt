@@ -666,3 +666,5 @@ gql.reddit.com
 ton.twimg.com
 www.loggly.com
 blog.twitter.com
+ipapi.co
+ip-api.com
