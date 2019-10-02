@@ -668,3 +668,7 @@ www.loggly.com
 blog.twitter.com
 ipapi.co
 ip-api.com
+static.xx.fbcdn.net
+star-mini.c10r.facebook.com
+tags.news.com.au
+smartlock.google.com
