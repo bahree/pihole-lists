@@ -1,0 +1,5 @@
+cdn.jwplayer.com
+content.jwplatform.com
+ssl.p.jwpcdn.com
+g.jwpsrv.com
+videos-fms.jwpsrv.com
