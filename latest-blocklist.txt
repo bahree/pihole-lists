@@ -3,3 +3,5 @@ content.jwplatform.com
 ssl.p.jwpcdn.com
 g.jwpsrv.com
 videos-fms.jwpsrv.com
+securepubads.g.doubleclick.net
+www.googletagmanager.com
