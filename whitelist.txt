@@ -678,3 +678,4 @@ id.google.com
 ocsp.sca1b.amazontrust.com
 cm.iotcplatform.com
 gm.iotcplatform.com
+assets.adobedtm.com
