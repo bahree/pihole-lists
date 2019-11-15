@@ -681,3 +681,5 @@ gm.iotcplatform.com
 assets.adobedtm.com
 fastly.net
 d2.shared.global.fastly.net
+t.paypal.com
+ea.twimg.com
