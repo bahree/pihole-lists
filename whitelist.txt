@@ -683,3 +683,10 @@ fastly.net
 d2.shared.global.fastly.net
 t.paypal.com
 ea.twimg.com
+a.sellpoint.net
+p.typekit.net
+fast.fonts.net
+api.bazaarvoice.com
+apps.nexus.bazaarvoice.com
+arc.msn.com
+adl.windows.com
