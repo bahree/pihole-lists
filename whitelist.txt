@@ -692,3 +692,11 @@ arc.msn.com
 adl.windows.com
 in.linkedin.com
 api.cortana.ai
+scontent-sea1-1.xx.fbcdn.net
+star.c10r.facebook.com
+scontent-sea1-1.xx.fbcdn.net
+lithium.facebook.com
+b-graph.facebook.com
+b-api.facebook.com
+api.facebook.com
+tracking.icims.com
