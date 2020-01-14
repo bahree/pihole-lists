@@ -700,3 +700,4 @@ b-graph.facebook.com
 b-api.facebook.com
 api.facebook.com
 tracking.icims.com
+mmg-fna.whatsapp.net
