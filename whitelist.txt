@@ -702,3 +702,4 @@ api.facebook.com
 tracking.icims.com
 mmg-fna.whatsapp.net
 mandrillapp.com
+browser.pipe.aria.microsoft.com
