@@ -1,0 +1,10 @@
+ephemeralcounters.api.roblox.com
+api.roblox.com
+notifications.roblox.com
+chat.roblox.com
+assetgame.roblox.com
+realtime.roblox.com
+ecsv2.roblox.com
+assetdelivery.roblox.com
+friends.roblox.com
+www.roblox.com
