@@ -703,3 +703,4 @@ tracking.icims.com
 mmg-fna.whatsapp.net
 mandrillapp.com
 browser.pipe.aria.microsoft.com
+cdn2.hubspot.net
