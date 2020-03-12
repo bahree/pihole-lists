@@ -46,4 +46,6 @@ ff02::2         ip6-allrouters
 192.168.10.48   Amit-iPad
 192.168.10.63   Meenu-iPad
 192.168.10.1    Router-Untangle
+192.168.10.64   LinuxSurface-Wired
+192.168.10.65   Amit-WorkSurfaceBook
 127.0.1.1       pihole
