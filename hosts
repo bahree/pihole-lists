@@ -48,4 +48,6 @@ ff02::2         ip6-allrouters
 192.168.10.1    Router-Untangle
 192.168.10.64   LinuxSurface-Wired
 192.168.10.65   Amit-WorkSurfaceBook
+192.168.10.205  panda-desktop
+192.168.10.68   Meenu-SurfaceBook
 127.0.1.1       pihole
