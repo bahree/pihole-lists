@@ -6,3 +6,4 @@ videos-fms.jwpsrv.com
 securepubads.g.doubleclick.net
 widgets.datasheets.com
 static.ads-twitter.com
+marketingplatform.google.com
