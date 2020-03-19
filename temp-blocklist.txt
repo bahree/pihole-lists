@@ -8,4 +8,3 @@ ecsv2.roblox.com
 assetdelivery.roblox.com
 friends.roblox.com
 www.roblox.com
-marketingplatform.google.com
