@@ -7,3 +7,4 @@ securepubads.g.doubleclick.net
 widgets.datasheets.com
 static.ads-twitter.com
 marketingplatform.google.com
+paint.net
