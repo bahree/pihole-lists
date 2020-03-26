@@ -704,3 +704,4 @@ mmg-fna.whatsapp.net
 mandrillapp.com
 browser.pipe.aria.microsoft.com
 cdn2.hubspot.net
+msit.powerbi.com
