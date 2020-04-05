@@ -706,3 +706,4 @@ browser.pipe.aria.microsoft.com
 cdn2.hubspot.net
 msit.powerbi.com
 target.scene7.com
+tracker.dominos.com
