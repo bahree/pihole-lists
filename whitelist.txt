@@ -707,3 +707,5 @@ cdn2.hubspot.net
 msit.powerbi.com
 target.scene7.com
 tracker.dominos.com
+logfiles.zoom.us
+bravia.dl.playstation.net
