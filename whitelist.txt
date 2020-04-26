@@ -709,3 +709,5 @@ target.scene7.com
 tracker.dominos.com
 logfiles.zoom.us
 bravia.dl.playstation.net
+static01.nyt.com
+ieonline.microsoft.com
