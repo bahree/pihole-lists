@@ -712,3 +712,6 @@ bravia.dl.playstation.net
 static01.nyt.com
 ieonline.microsoft.com
 login.windows-ppe.net
+sanalytics.disneyplus.com
+device-messaging-na.amazon.com
+disney.demdex.net
