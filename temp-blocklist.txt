@@ -8,3 +8,17 @@ ecsv2.roblox.com
 assetdelivery.roblox.com
 friends.roblox.com
 www.roblox.com
+interstatic06.gameloft.com
+eur-anubis-gsg021.gameloft.com
+eur-iris.gameloft.com
+sink.gameloft.com
+etsv2.gameloft.com
+federation-eur.gameloft.com
+eve.gameloft.com
+extads.gameloft.com
+vgold-eur.gameloft.com
+novac.gameloft.com
+iap-eur.gameloft.com
+eur-anubis-gsg021.gameloft.com
+a314.gameloft.com
+eur-anubis-gsg016.gameloft.com
