@@ -716,3 +716,4 @@ sanalytics.disneyplus.com
 device-messaging-na.amazon.com
 disney.demdex.net
 swna.wdpr.disney.com
+insideruser.microsoft.com
