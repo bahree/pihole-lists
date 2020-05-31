@@ -719,3 +719,16 @@ swna.wdpr.disney.com
 insideruser.microsoft.com
 comcast.demdex.net
 comcastcom.d1.sc.omtrdc.net
+reg.biv.sony.tv
+service.biv.sony.tv
+sonybivstatic-a.akamaihd.net
+ssm1.internet.sony.tv
+ssm3.internet.sony.tv
+b02.black.ndmdhs.com
+bravia.dl.playstation.net
+call.me.sel.sony.com
+cdn.meta.ndmdhs.com
+api.meta.ndmdhs.com
+api-mf1.meta.ndmdhs.com
+nexus.ensighten.com
+js.pulseinsights.com
