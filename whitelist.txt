@@ -732,3 +732,4 @@ api.meta.ndmdhs.com
 api-mf1.meta.ndmdhs.com
 nexus.ensighten.com
 js.pulseinsights.com
+corp.sts.microsoft.com
