@@ -736,3 +736,4 @@ corp.sts.microsoft.com
 fig.bbc.co.uk
 static.bbci.co.uk
 packages.dmd.metaservices.microsoft.com
+settings-ssl.xboxlive.com
