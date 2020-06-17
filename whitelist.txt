@@ -737,5 +737,5 @@ fig.bbc.co.uk
 static.bbci.co.uk
 packages.dmd.metaservices.microsoft.com
 settings-ssl.xboxlive.com
-watson.telemetry.microsoft.com
 mrodevicemgr.officeapps.live.com
+watson.telemetry.microsoft.com
