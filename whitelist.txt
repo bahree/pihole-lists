@@ -733,3 +733,5 @@ api-mf1.meta.ndmdhs.com
 nexus.ensighten.com
 js.pulseinsights.com
 corp.sts.microsoft.com
+fig.bbc.co.uk
+static.bbci.co.uk
