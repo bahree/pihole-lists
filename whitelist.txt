@@ -813,3 +813,4 @@ s4.symcb.com
 s5.symcb.com
 bat.bing.com
 acompli.helpshift.com
+cdp.cloud.unity3d.com sdk.hockeyapp.net
