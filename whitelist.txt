@@ -811,4 +811,5 @@ s2.symcb.com
 s3.symcb.com
 s4.symcb.com
 s5.symcb.com
-
+bat.bing.com
+acompli.helpshift.com
