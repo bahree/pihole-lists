@@ -739,3 +739,8 @@ packages.dmd.metaservices.microsoft.com
 settings-ssl.xboxlive.com
 mrodevicemgr.officeapps.live.com
 watson.telemetry.microsoft.com
+otf.msn.com
+c.bing.com
+c.msn.com
+img-s-msn-com.akamaized.net
+iecvlist.microsoft.com
