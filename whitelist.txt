@@ -817,3 +817,4 @@ cdp.cloud.unity3d.com
 sdk.hockeyapp.net
 substrate.office.com
 outlook.office.com
+sdx.xfinity.com
