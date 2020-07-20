@@ -818,3 +818,6 @@ sdk.hockeyapp.net
 substrate.office.com
 outlook.office.com
 sdx.xfinity.com
+vlscppe.microsoft.com
+web.vortex.data.microsoft.com
+az725175.vo.msecnd.net
