@@ -821,3 +821,4 @@ sdx.xfinity.com
 vlscppe.microsoft.com
 web.vortex.data.microsoft.com
 az725175.vo.msecnd.net
+analytics.dev.azure.com
