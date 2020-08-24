@@ -1,3 +1,5 @@
+gs-loc.apple.com
+iphone-ld.apple.com
 stocks-sparkline.apple.com
 0.client-channel.google.com
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
