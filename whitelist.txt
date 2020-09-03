@@ -1,3 +1,5 @@
+myaccount.nytimes.com
+samizdat-graphql.nytimes.com
 gs-loc.apple.com
 iphone-ld.apple.com
 stocks-sparkline.apple.com
