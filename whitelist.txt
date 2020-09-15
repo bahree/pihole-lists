@@ -1,3 +1,11 @@
+roaming.officeapps.live.com
+edge-enterprise.activity.windows.com
+browser.events.data.microsoft.com
+typeface.nyt.com
+a.nytimes.com
+meter-svc.nytimes.com
+purr.nytimes.com
+mwcm.nytimes.com
 myaccount.nytimes.com
 samizdat-graphql.nytimes.com
 gs-loc.apple.com
