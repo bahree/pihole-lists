@@ -1,3 +1,4 @@
+algorithmia.com
 roaming.officeapps.live.com
 edge-enterprise.activity.windows.com
 browser.events.data.microsoft.com
