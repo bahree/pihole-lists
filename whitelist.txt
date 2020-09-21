@@ -1,3 +1,9 @@
+link.medium.com
+a-ring.msedge.net
+ecs.office.com
+platform.linkedin.com
+journey.wired.com
+alexa.com
 algorithmia.com
 roaming.officeapps.live.com
 edge-enterprise.activity.windows.com
