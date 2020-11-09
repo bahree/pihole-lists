@@ -1,3 +1,4 @@
+note.microsoft.com
 beacons.gcp.gvt2.com
 beacons4.gcp.gvt2.com
 beacons5.gcp.gvt2.com
