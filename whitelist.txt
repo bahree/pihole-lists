@@ -1,3 +1,4 @@
+tags.tiqcdn.com
 usbank.demdex.net
 msmetrics.ws.sonos.com
 browser.events.data.msn.com
