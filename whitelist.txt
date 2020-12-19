@@ -1,3 +1,6 @@
+settingsfd-geo.trafficmanager.net
+i-by3p-cor002.api.p001.1drv.com
+analytics.bsgwireless.com
 endpoint1.collection.sumologic.com
 telemetry.api.swiftkey.com
 dominospizza.sc.omtrdc.net
