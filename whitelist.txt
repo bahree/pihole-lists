@@ -1,3 +1,4 @@
+mobile.events.data.microsoft.com
 api.segment.io
 www.connectionassist.com
 settingsfd-geo.trafficmanager.net
