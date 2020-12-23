@@ -1,3 +1,4 @@
+api.segment.io
 www.connectionassist.com
 settingsfd-geo.trafficmanager.net
 i-by3p-cor002.api.p001.1drv.com
