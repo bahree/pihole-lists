@@ -1,1 +1,3 @@
 redirector.googlevideo.com
+youtube-ui.l.google.com
+tv.youtube.com
