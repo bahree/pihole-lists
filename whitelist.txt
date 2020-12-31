@@ -1,3 +1,10 @@
+api.smartthings.com
+smartthings.com
+usage.trackjs.com
+beacons5.gvt2.com
+beacons.gvt2.com
+beacons5.gvt3.com
+mobile.launchdarkly.com
 mobile.events.data.microsoft.com
 api.segment.io
 www.connectionassist.com
