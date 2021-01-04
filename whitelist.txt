@@ -1,3 +1,8 @@
+links.notification.intuit.com
+v10.events.data.microsoft.com   
+browser.pipe.aria.microsoft.com
+us-v20.events.data.microsoft.com
+v10c.events.data.microsoft.com 
 upload.facebook.com
 creative.ak fbcdn.net
 external-lhr0-1.xx.fbcdn.net
@@ -405,7 +410,6 @@ login.windows.net
 lowes.com
 mail.google.com
 malwareurls.joxeankoret.com
-manifest.googlevideo.com
 mdidesign.ca
 media.licdn.com
 media-sea1-1.cdn.whatsapp.net
