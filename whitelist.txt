@@ -1,3 +1,5 @@
+app-measurement.com
+teams.events.data.microsoft.com
 links.notification.intuit.com
 v10.events.data.microsoft.com   
 browser.pipe.aria.microsoft.com
