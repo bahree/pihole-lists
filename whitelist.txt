@@ -1,3 +1,4 @@
+self-events-data.trafficmanager.net
 app-measurement.com
 teams.events.data.microsoft.com
 links.notification.intuit.com
