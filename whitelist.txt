@@ -1,3 +1,5 @@
+kmwatsonc.events.data.microsoft.com
+enterprise.activity.windows.com
 js-agent.newrelic.com
 nexus.officeapps.live.com
 beacons.gvt2.com
