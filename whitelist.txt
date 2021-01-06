@@ -1,3 +1,4 @@
+microsoft.qualtrics.com
 kmwatsonc.events.data.microsoft.com
 enterprise.activity.windows.com
 js-agent.newrelic.com
