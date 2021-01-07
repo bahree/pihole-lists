@@ -1,3 +1,5 @@
+info.microsoft.com
+microsoftdemandcenter-ssl.mktoweb.com
 microsoft.qualtrics.com
 kmwatsonc.events.data.microsoft.com
 enterprise.activity.windows.com
