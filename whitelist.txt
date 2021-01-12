@@ -1,4 +1,9 @@
-api-gateway.us-west-2.elasticbeanstalk.com app.townsq.io
+ecm.capitalone.com
+m-metrics.capitalone.com
+sdk.out.usbla.net
+mobile-collector.newrelic.com
+api-gateway.us-west-2.elasticbeanstalk.com
+app.townsq.io
 info.microsoft.com
 microsoftdemandcenter-ssl.mktoweb.com
 microsoft.qualtrics.com
