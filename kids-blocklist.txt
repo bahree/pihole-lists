@@ -10,3 +10,4 @@ pbs.twimg.com
 api.twitter.com
 abs.twimg.com
 cdn.syndication.twimg.com
+www.facebook.com
