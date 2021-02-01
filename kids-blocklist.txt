@@ -3,3 +3,10 @@ discord.com
 tiktok.com
 snapchat.com
 twitter.com
+platform.twitter.com
+syndication.twitter.com
+support.twitter.com
+pbs.twimg.com
+api.twitter.com
+abs.twimg.com
+cdn.syndication.twimg.com
