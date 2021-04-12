@@ -1,3 +1,4 @@
+api2.branch.io
 firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
 log.zoom.us
