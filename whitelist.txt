@@ -1,3 +1,5 @@
+firebase-settings.crashlytics.com
+crashlyticsreports-pa.googleapis.com
 log.zoom.us
 notify.bugsnag.com
 collector-004.newrelic.com
