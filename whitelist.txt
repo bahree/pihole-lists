@@ -1,8 +1,8 @@
 link.wired.com
+cdn-settings.segment.com
+api2.branch.io
 firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
-api2.branch.io
-cdn-settings.segment.com
 log.zoom.us
 notify.bugsnag.com
 collector-004.newrelic.com
