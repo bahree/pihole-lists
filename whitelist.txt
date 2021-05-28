@@ -1,3 +1,8 @@
+cdn.branch.io
+logx.optimizely.com
+settings.crashlytics.com
+api.instabug.com
+kinesis.us-east-1.amazonaws.com
 link.wired.com
 cdn-settings.segment.com
 api2.branch.io
