@@ -1,3 +1,6 @@
+upload2.fp.measure.office.com
+in.appcenter.ms
+stats.wp.com 
 cdn.branch.io
 logx.optimizely.com
 settings.crashlytics.com
