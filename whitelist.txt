@@ -1,3 +1,4 @@
+config.fp.measure.office.com
 upload2.fp.measure.office.com
 in.appcenter.ms
 stats.wp.com 
